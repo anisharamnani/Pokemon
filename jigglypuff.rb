@@ -4,7 +4,7 @@ class JigglyPuff
 	LEARNSET = {
 		"pound" => 40, 
 		"round" => 60,
-		"rollout" => 30
+		"rollout" => 30,
 		"double slap" => 15, 
 		"body slam" => 85,
 		"wake up slap" => 70,
@@ -19,7 +19,6 @@ class JigglyPuff
 		@height = "0.5 m" 
 		@weight = "5.5 kg"
 		@levelingrate = "Fast"
-		@abilities
 		@hp = 115
 		@attack = 45
 		@defense = 20 
